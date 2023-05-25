@@ -1,0 +1,15 @@
+D:\Patika\Swich\bin\Debug\net7.0\Swich.exe
+D:\Patika\Swich\bin\Debug\net7.0\Swich.deps.json
+D:\Patika\Swich\bin\Debug\net7.0\Swich.runtimeconfig.json
+D:\Patika\Swich\bin\Debug\net7.0\Swich.dll
+D:\Patika\Swich\bin\Debug\net7.0\Swich.pdb
+D:\Patika\Swich\obj\Debug\net7.0\Swich.csproj.AssemblyReference.cache
+D:\Patika\Swich\obj\Debug\net7.0\Swich.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\Swich\obj\Debug\net7.0\Swich.AssemblyInfoInputs.cache
+D:\Patika\Swich\obj\Debug\net7.0\Swich.AssemblyInfo.cs
+D:\Patika\Swich\obj\Debug\net7.0\Swich.csproj.CoreCompileInputs.cache
+D:\Patika\Swich\obj\Debug\net7.0\Swich.dll
+D:\Patika\Swich\obj\Debug\net7.0\refint\Swich.dll
+D:\Patika\Swich\obj\Debug\net7.0\Swich.pdb
+D:\Patika\Swich\obj\Debug\net7.0\Swich.genruntimeconfig.cache
+D:\Patika\Swich\obj\Debug\net7.0\ref\Swich.dll
